@@ -1,4 +1,4 @@
-[submodule "kubernetes"]
+[submodule "inference"]
 	path = inference
 	url = git@github.com:AaltoRSE/LLMInferencePods.git
 [submodule "gateway"]
