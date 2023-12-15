@@ -1,6 +1,6 @@
-[submodule "inference"]
-	path = inference
-	url = git@github.com:AaltoRSE/LLMInferencePods.git
 [submodule "gateway"]
 	path = gateway
 	url = git@github.com:AaltoRSE/LLMGateway.git
+[submodule "inference"]
+	path = inference
+	url = git@github.com:AaltoRSE/LLMInferencePods.git
