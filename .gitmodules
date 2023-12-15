@@ -1,6 +1,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
-	url = git@github.com:AaltoRSE/LLMKubernetesPods.git
+	url = git@github.com:AaltoRSE/LLMInferencePods.git
 [submodule "gateway"]
 	path = gateway
 	url = git@github.com:AaltoRSE/LLMGateway.git
