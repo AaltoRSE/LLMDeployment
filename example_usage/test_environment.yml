@@ -1,0 +1,6 @@
+name: LLMgatewayTest
+channels:
+  - conda-forge
+dependencies:
+  - langchain
+  - openai
